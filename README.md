@@ -1,3 +1,3 @@
 # exercicios_python_ete
 
-<img src=""></img>
+<img src="./img.png"></img>
