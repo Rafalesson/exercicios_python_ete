@@ -1,4 +1,4 @@
-# Escreva um programa que solicite ao usuário a quantidade de horas trabalhadas em um dia e o valor da hora trabalhada, e exiba o salário diário.
+## Escreva um programa que solicite ao usuário a quantidade de horas trabalhadas em um dia e o valor da hora trabalhada, e exiba o salário diário.
 
 ### Explicando o código:
 
