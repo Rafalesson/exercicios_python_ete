@@ -1,4 +1,4 @@
-# Escreva um programa que solicite ao usuário a idade de uma pessoa em anos e exiba a idade em meses e em dias. (Dica: um ano tem 12 meses e um mês tem aproximadamente 30 dias)
+## Escreva um programa que solicite ao usuário a idade de uma pessoa em anos e exiba a idade em meses e em dias. (Dica: um ano tem 12 meses e um mês tem aproximadamente 30 dias)
 
 ### Explicando o código:
 

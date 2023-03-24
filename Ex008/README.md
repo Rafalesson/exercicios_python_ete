@@ -1,4 +1,4 @@
-# Escreva um programa que solicite ao usuário a largura e a altura de um retângulo e exiba sua área e perímetro.
+## Escreva um programa que solicite ao usuário a largura e a altura de um retângulo e exiba sua área e perímetro.
 
 ### Explicando o código:
 
